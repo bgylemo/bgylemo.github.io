@@ -20,7 +20,7 @@ author: Björn Gylemo
 ###############################################
 
 navbar-links:
-  About Me: "Computational biologist interested in X-chromosome biology."
+  About Me: "Computational biologist working with X-chromosome biology."
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/bjorn-gylemo/"
 
@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/cropped_bjogy93_IMG_3360.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
