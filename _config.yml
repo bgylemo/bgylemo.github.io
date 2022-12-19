@@ -20,8 +20,8 @@ author: Björn Gylemo
 ###############################################
 
 navbar-links:
-  About Me: "AboutMe.md"
-  Publications: "AboutMe.md"
+  About Me: "aboutme"
+  Publications: "publications"
   Resources:
     - GitHub: "https://github.com/bgylemo/"
     - LinkedIn: "https://www.linkedin.com/in/bjorn-gylemo/"
