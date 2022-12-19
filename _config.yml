@@ -22,7 +22,9 @@ author: Björn Gylemo
 navbar-links:
   About Me: "Computational biologist working with X-chromosome biology."
   Resources:
+    - GitHub: "https://github.com/bgylemo/"
     - LinkedIn: "https://www.linkedin.com/in/bjorn-gylemo/"
+
 
 ################
 # --- Logo --- #
