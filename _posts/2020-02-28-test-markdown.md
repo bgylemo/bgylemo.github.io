@@ -1,78 +1,28 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Interesting times
+subtitle: 2022
+gh-repo: bgylemo/bgylemo.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+### Who am I?
+A computational biologist interested in the X-chromosome. Doing a PhD in Colm Nestors group at Linköping University, Sweden. Will be half-way in April 2023. 
+Chess, running and powerlifting.
 
-**Here is some bold text**
+### What are my research interests?
+On a very overarching level my primary research interest is how and why men and women are affected by diseases differently. Why are many autoimmune dieases more common in women, and why are men more susceptible to severe infections? This difference is probably due to a multidude of factors, including differences in lifestyle, hormones and genetics. 
 
-## Here is a secondary heading
+However, as someone who is fascinated by **genetics** this is the area that I want to focus my research on; how can the largest genetic difference in males vs females, the X-chromosome, contribute to preventing or promting disease?
 
-Here's a useless table:
+### What kind of work do I do?
+I am a wet lab biologist by education (masters degree in Medical Biology from Linköping University), but for the last 3½ years I have worked (almost) exclusively with processing and analysing data. The projects I'm currently working on involves whole-exome sequencing (WES), RNA-seq and DNA methylation array (EPIC) data and has been analysed using Bash and R. I will write more about these projects once they are finished.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+### What's next?
+## Trip to London
+In January-March I will go to London to visit James Turners lab at the Francis Crick Institute. This is _very_ exciting.
 
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+## Continuing this thing
+I see this as a way of practicing how to express my strengths, as well as a way of learning how to make quick and easy websites. I think being good at both these things is a requirement of someone percieving themselves as techsavvy PhD student.
