@@ -21,8 +21,8 @@ However, as someone who is fascinated by **genetics** this is the area that I wa
 I am a wet lab biologist by education (masters degree in Medical Biology from Linköping University), but for the last 3½ years I have worked (almost) exclusively with processing and analysing data. The projects I'm currently working on involves whole-exome sequencing (WES), RNA-seq and DNA methylation array (EPIC) data and has been analysed using Bash and R. I will write more about these projects once they are finished.
 
 ### What's next?
-## Trip to London
+# Trip to London
 In January-March I will go to London to visit James Turners lab at the Francis Crick Institute. This is _very_ exciting.
 
-## Continuing this thing
+# Continuing this thing
 I see this as a way of practicing how to express my strengths, as well as a way of learning how to make quick and easy websites. I think being good at both these things is a requirement of someone percieving themselves as techsavvy PhD student.
