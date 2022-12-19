@@ -20,7 +20,7 @@ author: Björn Gylemo
 ###############################################
 
 navbar-links:
-  About Me: "Computational biologist working with X-chromosome biology."
+  About Me: "Computational_biologist_working_with_X-chromosome_biology."
   Resources:
     - GitHub: "https://github.com/bgylemo/"
     - LinkedIn: "https://www.linkedin.com/in/bjorn-gylemo/"
@@ -125,8 +125,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#000000
+navbar-text-col: "#ffffff
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
