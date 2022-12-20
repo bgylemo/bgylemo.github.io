@@ -5,12 +5,12 @@ subtitle: Björn Gylemo
 ---
 
 ### Who am I?
-A computational biologist interested in the X-chromosome. Doing a PhD in Colm Nestors group at Linköping University, Sweden. Will be half-way in April 2023. Chess, running and powerlifting.
+A computational biologist interested in the X-chromosome. Currently doing a PhD in Colm Nestors group at Linköping University, Sweden. Will be half-way in April 2023. Outside of work I enjoy playing chess, running and powerlifting.
 
 ### What are my research interests?
-On a very overarching level my primary research interest is how and why men and women are affected by diseases differently. Why are many autoimmune dieases more common in women, and why are men more susceptible to severe infections? This difference is probably due to a multidude of factors, including differences in lifestyle, hormones and genetics.
-
-However, as someone who is fascinated by genetics this is the area that I want to focus my research on; how can the largest genetic difference in males vs females, the X-chromosome, contribute to preventing or promting disease?
+On an overarching level my primary research interest is why men and women are affected by diseases differently. Why are many autoimmune dieases more common in women, and why are infections often more severe in men? This is often assocaited with a difference in immune function or potential, where women have a more active immune system. This is probably due to a multidude of factors, including differences in lifestyle, hormones and genetics. 
+As someone who is fascinated by the latter, I want to focus my research on the genetic contributions of this disparity. As the X-chromosome is the largest genetic difference between men and women its a good place to start looking for differences. To this end I look both at sex-biased gene expression but also direct measures of escape from X-chromosome inactivation, such as allele-specific expression.
 
 ### What kind of work do I do?
-I am a wet lab biologist by education (masters degree in Medical Biology from Linköping University), but for the last 3½ years I have worked (almost) exclusively with processing and analysing data. The projects I'm currently working on involves whole-exome sequencing (WES), RNA-seq and DNA methylation array (EPIC) data and has been analysed using Bash and R. I will write more about these projects once they are finished.
+I am a wet lab biologist by education (masters degree in Medical Biology from Linköping University), but for the last 3½ years I have worked (almost) exclusively with processing and analysing data. The projects I'm currently working on involves whole-exome sequencing (WES), whole-genome sequencing (WGS), RNA-seq and DNA methylation array (EPIC) data and has been analysed using Bash and R.
+Outside of research I do moderate amounts of teaching in a bioinformatics and big data course where I have created a RNA-seq data pipeline (from fastq files to edgeR output) for introducting topics such aligners, sequence quality metrics. I also teach part of a statistical introductory course to Master Medical Biology students, mainly about statistical testing of groups and study design.
