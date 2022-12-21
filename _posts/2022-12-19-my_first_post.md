@@ -4,7 +4,7 @@ title: Interesting times
 subtitle: 2022
 gh-repo: bgylemo/bgylemo.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [bgylemo]
 comments: false
 ---
 
