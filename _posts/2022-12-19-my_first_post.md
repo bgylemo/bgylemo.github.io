@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interesting times
+title: Introduction and London trip
 subtitle: 2022
 gh-repo: bgylemo/bgylemo.github.io
 gh-badge: [star, fork, follow]
