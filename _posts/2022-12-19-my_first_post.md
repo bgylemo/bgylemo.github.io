@@ -22,7 +22,7 @@ I am a wet lab biologist by education (masters degree in Medical Biology from Li
 
 ### What's next?
 #### Trip to London
-In January-March I will go to London to visit James Turners lab at the Francis Crick Institute. This is _very_ exciting.
+In the beginning of 2023 I will go to London to visit James Turners lab at the Francis Crick Institute. This is _very_ exciting.
 
 #### Continuing this thing
 I see this as a way of practicing how to express my strengths, as well as a way of learning how to make quick and easy websites, preferably using HTML or CSS. I think being good at both these things is a requirement of someone perceiving themselves as techsavvy PhD student.
