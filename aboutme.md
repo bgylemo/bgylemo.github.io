@@ -5,7 +5,7 @@ subtitle: Björn Gylemo
 ---
 
 ### Who am I?
-A computational biologist interested in the X-chromosome. Currently doing a PhD in Colm Nestors group at Linköping University, Sweden. Will be half-way in April 2023. Outside of work I enjoy playing chess, running and powerlifting.
+A computational biologist interested in the X-chromosome. Currently doing a PhD in Colm Nestors group at Linköping University, Sweden. Will be half-way in April 2023. Outside of work I enjoy running, powerlifting and chess.
 
 ### What are my research interests?
 On an overarching level my primary research interest is why men and women are affected by diseases differently. Why are many autoimmune dieases more common in women, and why are infections often more severe in men? This is often assocaited with a difference in immune function or potential, where women have a more active immune system. This is probably due to a multidude of factors, including differences in lifestyle, hormones and genetics. 
@@ -13,4 +13,4 @@ As someone who is fascinated by the latter, I want to focus my research on the g
 
 ### What kind of work do I do?
 I am a wet lab biologist by education (masters degree in Medical Biology from Linköping University), but for the last 3½ years I have worked (almost) exclusively with processing and analysing data. The projects I'm currently working on involves whole-exome sequencing (WES), whole-genome sequencing (WGS), RNA-seq and DNA methylation array (EPIC) data and has been analysed using Bash and R.
-Outside of research I do moderate amounts of teaching in a bioinformatics and big data course where I have created a RNA-seq data pipeline (from fastq files to edgeR output) for introducting topics such aligners, sequence quality metrics. I also teach part of a statistical introductory course to Master Medical Biology students, mainly about statistical testing of groups and study design.
+Outside of research I do moderate amounts of teaching in a bioinformatics and a 'big data' course where I created a RNA-seq data pipeline (from fastq files to edgeR output) for introducting topics such aligners, sequence quality metrics and differential gene expression analysis. I also teach part of a statistical introductory course to Master Medical Biology students, mainly about statistical testing of groups and study design.
