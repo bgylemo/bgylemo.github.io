@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-subtitle: Björn Gylemo
+title: Björn Gylemo
+subtitle: X-chromosome biology enthusiast
 ---
 
 ### Who am I?
