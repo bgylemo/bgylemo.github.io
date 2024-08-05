@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me (Björn Gylemo)
+title: About me
 subtitle: X-chromosome biology enthusiast
 ---
 
